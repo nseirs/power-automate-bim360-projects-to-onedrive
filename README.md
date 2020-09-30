@@ -41,8 +41,13 @@ This is a flow package for [Microsoft Power Automate](https://flow.microsoft.com
 #### 1. Run Flow
 * In Power Automate, select **My flows** from the left panel, select the **Export BIM 360 Projects to OneDrive** flow, and click on **Run**
 * Input **Client ID**, **Client Secret**, and **BIM 360 Account ID** from steps 1 & 2 in Setup and click **Run Flow**
+
+![](ExportBIM360ProjectstoOneDrive%20RunFlow.jpg)
+
 #### 2. Check OneDrive
 * When Run is completed, a CSV file named **YYYY.MM.DD_hh_mm BIM 360 Projects.CSV** will be created in the root folder of your OneDrive for Business
+
+![](ExportBIM360ProjectstoOneDrive%20OneDrive%20CSV.jpg)
 
 ## License
 
